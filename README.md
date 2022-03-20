@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A Webdev and OSdev</h3>
 
-- 🔭 I’m currently working on [Rinsof](https://github.com/zartov/Rinsof) (private)
+- 🔭 I’m currently working on [Rinsof](https://github.com/zartov/Rinsof) (private) and [RinsofOS](https://github.com/zartov/RinsofOS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/zartov?tab=repositories](https://github.com/zartov?tab=repositories)
 
