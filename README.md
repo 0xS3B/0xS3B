@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sebastien 👋</h1>
-<h3 align="center">Developer • Builder • Always shipping something</h3>
+<h3 align="center">Developer • Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5865F2&center=true&vCenter=true&width=440&lines=Writing+code+that+solves+real+problems;Always+learning%2C+always+building;Open+to+collaborating+on+cool+projects" alt="Typing SVG" />
