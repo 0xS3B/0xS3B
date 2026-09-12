@@ -13,19 +13,10 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 Currently working on exciting projects
-- 🌱 Always learning new technologies
-- 💬 Ask me about anything dev-related
-- ⚡ Fun fact: I love clean, efficient code
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,python,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,github,linux&theme=dark" />
 </p>
 
 ---
